@@ -7,7 +7,15 @@ A few of the projects I've worked on:
 - [Lightyear](https://lightyear.one/): bringing to market the first commercially available solar electric vehicle
 - The [NOS](https://play.google.com/store/apps/details?id=nl.nos.app&hl=nl) and [Jeugdjournaal](https://play.google.com/store/apps/details?id=nl.nos.jeugdjournaal&hl=nl) (Youth news) apps in the Netherlands
 
-In my free time, I work on building software that is as intuitive as possible and allows other developers to integrate it into their tools!
+In my free time, I work on building software that is as intuitive as possible and allows other developers to integrate it into their tools! While I'm not an embedded engineer, I enjoy learning
+about new programming languages and concepts!
+
+My To-do list:
+- Learn and build my first tool in Rust (🛠️)
+- Become an expert in refactoring
+- Automate my home (🏡) to the max with Home Assistant
+
+Oh, and of course: 🐶 (dogs) > 😾 (cats)
 
 <!--
 **Staartvin/Staartvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
